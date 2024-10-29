@@ -4,12 +4,21 @@
 
 ## <div align="center" width="50">
 
+<h1> <em>Olá , me chamo Ana clara </em> </h1>
+
 
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
 ![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=An18c&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+
+#
+
+<p align="center">Estudante de Informática e Manutenção de Computadores na Escola Profissional Vereador José Batista Filho. Atualmente estou cursando o primeiro ano do ensino médio.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 
 <div style="display: inline_block"><br>
